@@ -1,41 +1,43 @@
-📌 Description
-Portify is an online portfolio builder that enables users to create professional, customizable portfolios without coding. It provides ready-made templates, drag-and-drop features, and real-time previews to showcase projects, skills, and achievements effectively.
+# Portify - Online Portfolio Builder
+## 📌 Description
 
-🚀 Features
-User Authentication (Login & Signup)
-Customizable Portfolio Templates
-Editor & Live Preview
-Media Upload Section
-Publish Option
+Portify is an online portfolio builder that enables users to create professional, customizable portfolios without coding. It provides ready-made templates, an intuitive editor, and real-time previews to showcase projects, skills, and achievements effectively.
 
-🔐 Admin Features
-Manage Templates
-User Management
+## 🚀 Features
+*User Authentication (Login & Signup)
+*Customizable Portfolio Templates
+*Editor & Live Preview
+*Media Upload Section
+*Publish Option
 
-🛠 Technologies Used
-React JS
-Express JS
-MongoDB
+## 🔐 Admin Features
+*Manage Templates
+*User Management
 
-🗄 Database Setup
-Install MongoDB
-Create a database named portify
-Configure connection string in backend
+## 🛠 Technologies Used
+*React JS
+*Express JS
+*MongoDB
 
-▶️ How to Run
-Install dependencies using npm install
-Run backend using npm start
-Run frontend using npm start
-Open in browser at localhost
+## 🗄 Database Setup
+*Install MongoDB
+*Create a database named portify
+*Configure connection string in backend
 
-📁 Project Structure
-frontend → React UI
-backend → Express server
-models → Database schemas
-routes → API endpoints
+## ▶️ How to Run
+*Install dependencies using npm install
+*Run backend using npm start
+*Run frontend using npm start
+*Open in browser at localhost
 
-👥 Team
-T. V. R. Indu Bhargavi
-T. S. N. Srikhar Reddy
-V. Pavan Satya Prasad
-V. Hari Veera Venkat 
+## 📁 Project Structure
+*frontend → React UI
+*backend → Express server
+*models → Database schemas
+*routes → API endpoints
+
+## 👥 Team
+*T. V. R. Indu Bhargavi
+*T. S. N. Srikhar Reddy
+*V. Pavan Satya Prasad
+*V. Hari Veera Venkat
