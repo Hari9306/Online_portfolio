@@ -16,6 +16,7 @@ Portify is an online portfolio builder that enables users to create professional
 
 ## 🛠 Technologies Used
 * React JS
+* Node JS
 * Express JS
 * MongoDB
 
